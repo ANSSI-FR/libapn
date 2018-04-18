@@ -1,0 +1,7 @@
+TODO:
+=====
+
+- Write documentation.
+
+- Write better (generic) code to handle abritrary degrees
+  In particular include code currently in utils folder.

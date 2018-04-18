@@ -1,0 +1,27 @@
+Copyright
+=========
+Copyright 2017 Jean-Pierre Flori, Jérémy Jean
+
+License
+=======
+libapn is free software and distributed under the terms of the GNU
+General Public License version 3 or any later version.
+
+Description
+===========
+libapn is a header based C++ library developed to study vectorial
+Boolean functions including but not limited to APN functions.
+
+Classes
+=======
+The following high-level C++ classes are available:
+             function
+             /     \
+            /       \
+           /         \
+  linear_function   permutation
+           |         /   |
+           |        /    |
+           |       /     |
+ linear_permutation   involution
+

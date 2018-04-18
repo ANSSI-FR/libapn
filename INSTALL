@@ -1,0 +1,7 @@
+To build some example programs from a clone of the git repository,
+run the following commands:
+$ autoreconf -fiv
+$ ./configure
+$ make
+
+Inspiration can be found in the example programs source code to craft your own programs.
